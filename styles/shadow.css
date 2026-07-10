@@ -3,9 +3,9 @@
 
     width: 400px;
     margin: 50px;
-    box box-shadow: 20px;
+     box-shadow: 20px;
 }
 #header{
 background-color: aquamarine;
-
+background-image:url(../download\ \(42\).png) ;
 }
